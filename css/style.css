@@ -6,3 +6,9 @@ p
 {
 color:green;
 }
+
+nav ul li
+{
+list-style:none;
+color:blue;
+}
